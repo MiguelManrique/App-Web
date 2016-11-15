@@ -20,3 +20,14 @@ C:\Users\alumnos\Desktop\prueba\NorthWind1\BussinesLogic\bin\Debug\EntityFramewo
 C:\Users\alumnos\Desktop\prueba\NorthWind1\BussinesLogic\obj\Debug\BussinesLogic.csprojResolveAssemblyReference.cache
 C:\Users\alumnos\Desktop\prueba\NorthWind1\BussinesLogic\obj\Debug\BussinesLogic.dll
 C:\Users\alumnos\Desktop\prueba\NorthWind1\BussinesLogic\obj\Debug\BussinesLogic.pdb
+C:\Users\Miguel\Desktop\prueba\NorthWind1\BussinesLogic\bin\Debug\BussinesLogic.dll
+C:\Users\Miguel\Desktop\prueba\NorthWind1\BussinesLogic\bin\Debug\BussinesLogic.pdb
+C:\Users\Miguel\Desktop\prueba\NorthWind1\BussinesLogic\bin\Debug\DataAccess.dll
+C:\Users\Miguel\Desktop\prueba\NorthWind1\BussinesLogic\bin\Debug\Entities.dll
+C:\Users\Miguel\Desktop\prueba\NorthWind1\BussinesLogic\bin\Debug\EntityFramework.dll
+C:\Users\Miguel\Desktop\prueba\NorthWind1\BussinesLogic\bin\Debug\DataAccess.pdb
+C:\Users\Miguel\Desktop\prueba\NorthWind1\BussinesLogic\bin\Debug\Entities.pdb
+C:\Users\Miguel\Desktop\prueba\NorthWind1\BussinesLogic\bin\Debug\EntityFramework.xml
+C:\Users\Miguel\Desktop\prueba\NorthWind1\BussinesLogic\obj\Debug\BussinesLogic.csprojResolveAssemblyReference.cache
+C:\Users\Miguel\Desktop\prueba\NorthWind1\BussinesLogic\obj\Debug\BussinesLogic.dll
+C:\Users\Miguel\Desktop\prueba\NorthWind1\BussinesLogic\obj\Debug\BussinesLogic.pdb

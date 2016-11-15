@@ -50,16 +50,23 @@ namespace NorthWind1
                 this.txtSVia.Text = objOrder.ShipVia.ToString();
                 this.txtFreight.Text = objOrder.Freight.ToString();
                 this.txtSName.Text = objOrder.ShipName;
-                this.txtSName.Text = objOrder.ShipName;
-                this.txtSName.Text = objOrder.ShipName;
-                this.txtSName.Text = objOrder.ShipName;
-                this.txtSName.Text = objOrder.ShipName;
-                this.txtSName.Text = objOrder.ShipName;
+                this.txtSAddress.Text = objOrder.ShipAddress;
+                this.txtSCity.Text = objOrder.ShipCity;
+                this.txtSRegion.Text = objOrder.ShipRegion;
+                this.txtSPostalCode.Text = objOrder.ShipPostalCode;
+                this.txtSCountry.Text = objOrder.ShipCountry;
+
+                this.LoadAllOrders();
             }
             catch (Exception ex)
             {
                 throw ex;
             }
+        }
+
+        private void LoadAllOrders()
+        {
+            dgvOrders.DataSource = this.OrderService.GetAllOrders();
         }
     }
 }
