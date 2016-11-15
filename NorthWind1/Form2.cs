@@ -26,13 +26,40 @@ namespace NorthWind1
         }
 
         public Form2(string customerId, int orderId)
-        {
-            this.CustomerService = new CustomerService();
-            this.OrderService = new OrderService();
+        {            
             this.customerId = customerId;
-            this.orderId = orderId;            
+            this.orderId = orderId;
 
             InitializeComponent();
+        }
+
+        private void Form2_Load(object sender, EventArgs e)
+        {    
+            try
+            {
+                this.CustomerService = new CustomerService();
+                this.OrderService = new OrderService();
+
+
+                Customer objCustomer = this.CustomerService.GetCustomerById(customerId);
+                Order objOrder = this.OrderService.GetOrderById(orderId);
+
+                this.dtpODate.Value = objOrder.OrderDate.Value;
+                this.dtpRDate.Value = objOrder.RequiredDate.Value;
+                this.dtpSDate.Value = objOrder.ShippedDate.Value;
+                this.txtSVia.Text = objOrder.ShipVia.ToString();
+                this.txtFreight.Text = objOrder.Freight.ToString();
+                this.txtSName.Text = objOrder.ShipName;
+                this.txtSName.Text = objOrder.ShipName;
+                this.txtSName.Text = objOrder.ShipName;
+                this.txtSName.Text = objOrder.ShipName;
+                this.txtSName.Text = objOrder.ShipName;
+                this.txtSName.Text = objOrder.ShipName;
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
         }
     }
 }

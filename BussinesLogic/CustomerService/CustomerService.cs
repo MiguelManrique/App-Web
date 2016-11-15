@@ -21,7 +21,7 @@ namespace BussinesLogic.CustomerService
             repository.UpdateCustomer(objCustomer);
         }
 
-        public void DeleteCustomer(int customerId)
+        public void DeleteCustomer(string customerId)
         {
             ICustomerRepository repository = new CustomerRepository();
             repository.DeleteCustomer(customerId);
@@ -34,7 +34,7 @@ namespace BussinesLogic.CustomerService
         }
 
 
-        public Entities.Customer GetCustomerById(int customerId)
+        public Entities.Customer GetCustomerById(string customerId)
         {
             ICustomerRepository repository = new CustomerRepository();
             return repository.GetCustomerById(customerId);

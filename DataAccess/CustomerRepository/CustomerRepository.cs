@@ -32,7 +32,7 @@ namespace DataAccess.CustomerRepository
             }
         }
 
-        public void DeleteCustomer(int customerId)
+        public void DeleteCustomer(string customerId)
         {
             using (var model = new NorthwindModelEntities())
             {

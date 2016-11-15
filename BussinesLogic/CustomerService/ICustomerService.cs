@@ -11,8 +11,8 @@ namespace BussinesLogic.CustomerService
     {
         void InsertCustomer(Customer objCustomer);
         void UpdateCustomer(Customer objCustomer);
-        void DeleteCustomer(int customerId);
+        void DeleteCustomer(string customerId);
         List<Customer> GetAllCustomers();
-        Customer GetCustomerById(int customerId);
+        Customer GetCustomerById(string customerId);
     }
 }
