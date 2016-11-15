@@ -50,7 +50,8 @@ namespace NorthWind1
         {
             int orderId = Convert.ToInt32(dgvList.Rows[e.RowIndex].Cells["OrderID"].Value);
             string customerId = Convert.ToString(dgvList.Rows[e.RowIndex].Cells["CustomerId"].Value);
-            Form2 form2 = new Form2(string customerId, int orderId);
+
+            Form2 form2 = new Form2(customerId, orderId);
             form2.Show();
         }
     }
