@@ -1,0 +1,22 @@
+D:\Miguel\VS Projects\NorthWind1\BussinesLogic\bin\Debug\BussinesLogic.dll
+D:\Miguel\VS Projects\NorthWind1\BussinesLogic\bin\Debug\BussinesLogic.pdb
+D:\Miguel\VS Projects\NorthWind1\BussinesLogic\bin\Debug\DataAccess.dll
+D:\Miguel\VS Projects\NorthWind1\BussinesLogic\bin\Debug\Entities.dll
+D:\Miguel\VS Projects\NorthWind1\BussinesLogic\bin\Debug\EntityFramework.dll
+D:\Miguel\VS Projects\NorthWind1\BussinesLogic\bin\Debug\DataAccess.pdb
+D:\Miguel\VS Projects\NorthWind1\BussinesLogic\bin\Debug\Entities.pdb
+D:\Miguel\VS Projects\NorthWind1\BussinesLogic\bin\Debug\EntityFramework.xml
+D:\Miguel\VS Projects\NorthWind1\BussinesLogic\obj\Debug\BussinesLogic.csprojResolveAssemblyReference.cache
+D:\Miguel\VS Projects\NorthWind1\BussinesLogic\obj\Debug\BussinesLogic.dll
+D:\Miguel\VS Projects\NorthWind1\BussinesLogic\obj\Debug\BussinesLogic.pdb
+C:\Users\alumnos\Desktop\prueba\NorthWind1\BussinesLogic\bin\Debug\BussinesLogic.dll
+C:\Users\alumnos\Desktop\prueba\NorthWind1\BussinesLogic\bin\Debug\BussinesLogic.pdb
+C:\Users\alumnos\Desktop\prueba\NorthWind1\BussinesLogic\bin\Debug\DataAccess.dll
+C:\Users\alumnos\Desktop\prueba\NorthWind1\BussinesLogic\bin\Debug\Entities.dll
+C:\Users\alumnos\Desktop\prueba\NorthWind1\BussinesLogic\bin\Debug\EntityFramework.dll
+C:\Users\alumnos\Desktop\prueba\NorthWind1\BussinesLogic\bin\Debug\DataAccess.pdb
+C:\Users\alumnos\Desktop\prueba\NorthWind1\BussinesLogic\bin\Debug\Entities.pdb
+C:\Users\alumnos\Desktop\prueba\NorthWind1\BussinesLogic\bin\Debug\EntityFramework.xml
+C:\Users\alumnos\Desktop\prueba\NorthWind1\BussinesLogic\obj\Debug\BussinesLogic.csprojResolveAssemblyReference.cache
+C:\Users\alumnos\Desktop\prueba\NorthWind1\BussinesLogic\obj\Debug\BussinesLogic.dll
+C:\Users\alumnos\Desktop\prueba\NorthWind1\BussinesLogic\obj\Debug\BussinesLogic.pdb

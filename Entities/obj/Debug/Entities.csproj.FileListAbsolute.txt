@@ -1,0 +1,19 @@
+D:\Miguel\VS Projects\NorthWind1\Entities\bin\Debug\Entities.dll.config
+D:\Miguel\VS Projects\NorthWind1\Entities\bin\Debug\Entities.dll
+D:\Miguel\VS Projects\NorthWind1\Entities\bin\Debug\Entities.pdb
+D:\Miguel\VS Projects\NorthWind1\Entities\bin\Debug\EntityFramework.dll
+D:\Miguel\VS Projects\NorthWind1\Entities\bin\Debug\EntityFramework.SqlServer.dll
+D:\Miguel\VS Projects\NorthWind1\Entities\bin\Debug\EntityFramework.xml
+D:\Miguel\VS Projects\NorthWind1\Entities\bin\Debug\EntityFramework.SqlServer.xml
+D:\Miguel\VS Projects\NorthWind1\Entities\obj\Debug\Entities.dll
+D:\Miguel\VS Projects\NorthWind1\Entities\obj\Debug\Entities.pdb
+C:\Users\alumnos\Desktop\prueba\NorthWind1\Entities\bin\Debug\Entities.dll.config
+C:\Users\alumnos\Desktop\prueba\NorthWind1\Entities\bin\Debug\Entities.dll
+C:\Users\alumnos\Desktop\prueba\NorthWind1\Entities\bin\Debug\Entities.pdb
+C:\Users\alumnos\Desktop\prueba\NorthWind1\Entities\bin\Debug\EntityFramework.dll
+C:\Users\alumnos\Desktop\prueba\NorthWind1\Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alumnos\Desktop\prueba\NorthWind1\Entities\bin\Debug\EntityFramework.xml
+C:\Users\alumnos\Desktop\prueba\NorthWind1\Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alumnos\Desktop\prueba\NorthWind1\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\alumnos\Desktop\prueba\NorthWind1\Entities\obj\Debug\Entities.dll
+C:\Users\alumnos\Desktop\prueba\NorthWind1\Entities\obj\Debug\Entities.pdb

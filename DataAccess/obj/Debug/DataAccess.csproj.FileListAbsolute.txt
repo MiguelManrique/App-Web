@@ -1,0 +1,20 @@
+D:\Miguel\VS Projects\NorthWind1\DataAccess\bin\Debug\DataAccess.dll
+D:\Miguel\VS Projects\NorthWind1\DataAccess\bin\Debug\DataAccess.pdb
+D:\Miguel\VS Projects\NorthWind1\DataAccess\bin\Debug\Entities.dll
+D:\Miguel\VS Projects\NorthWind1\DataAccess\bin\Debug\EntityFramework.dll
+D:\Miguel\VS Projects\NorthWind1\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\Miguel\VS Projects\NorthWind1\DataAccess\bin\Debug\Entities.pdb
+D:\Miguel\VS Projects\NorthWind1\DataAccess\bin\Debug\EntityFramework.xml
+D:\Miguel\VS Projects\NorthWind1\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\Miguel\VS Projects\NorthWind1\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\Miguel\VS Projects\NorthWind1\DataAccess\obj\Debug\DataAccess.dll
+D:\Miguel\VS Projects\NorthWind1\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\alumnos\Desktop\prueba\NorthWind1\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\alumnos\Desktop\prueba\NorthWind1\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\alumnos\Desktop\prueba\NorthWind1\DataAccess\bin\Debug\Entities.dll
+C:\Users\alumnos\Desktop\prueba\NorthWind1\DataAccess\bin\Debug\Entities.pdb
+C:\Users\alumnos\Desktop\prueba\NorthWind1\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\alumnos\Desktop\prueba\NorthWind1\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alumnos\Desktop\prueba\NorthWind1\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\alumnos\Desktop\prueba\NorthWind1\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\alumnos\Desktop\prueba\NorthWind1\DataAccess\obj\Debug\DataAccess.pdb
